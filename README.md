@@ -12,10 +12,10 @@ Solution: Sadly, almost all the AIs I used were unable to solve this big trouble
 
 My key steps:
 1.Query the computer configuration in the terminal, focusing on the CUDA version in the upper right corner (for subsequent selection!)
-![cmd terminal](.\images\cmd.png)
+![cmd terminal](./images/cmd.png)
 2.Query the official website for the version that fits you and its corresponding command (the CUDA version cannot be higher than what your computer can accommodate)
-![Pytorch official website](.\images\Pytorch.png)
+![Pytorch official website](./images/Pytorch.png)
 3.Verify availability (verification in the terminal is also more reliable)
-![cuda usability](.\images\cuda.png)
+![cuda usability](./images/cuda.png)
 
 That is all for my insights on installing PyTorch. Since I have no experience and did not "back up" images, the production is relatively rough; I will gradually improve it. Additionally, my English is not very good, so my updates might be slow. Thanks for watching!
