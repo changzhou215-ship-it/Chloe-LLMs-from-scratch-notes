@@ -19,3 +19,22 @@ My key steps:
 ![cuda usability](./images/cuda.png)
 
 That is all for my insights on installing PyTorch. Since I have no experience and did not "back up" images, the production is relatively rough; I will gradually improve it. Additionally, my English is not very good, so my updates might be slow. Thanks for watching!
+
+
+26.04.19
+I learned today about a multimodal capability that I suspect large models might utilize: chart plotting.
+
+First, let me introduce my learning strategy for code:
+
+When I use AI to learn or understand a piece of code, I usually start with the imported libraries. I then look through each library to find where specific functions from those libraries are called. Next, I seek to understand the functionality of these functions. For code that is deeply nested and difficult to understand at once, I give it to the AI for a detailed explanation, and then I add my own comments (if you have Copilot, you can use that too! Though... I have run out of quota).
+
+Next, let's look at the knowledge I have acquired:
+
+1.Imported Libraries: The data manipulation library pandas and the plotting library matplotlib. These are two very classic libraries used alongside PyTorch.
+
+2.Functions Used: pandas.read_csv, matplotlib.pyplot, and matplotlib.ticker.
+
+3.Functionality: pyplot calls many functions to handle the actual charting, saving images, and displaying them in pop-up windows; ticker is used to define the scale of the axes.
+
+4.Learning and Commenting on Complex Parts: 
+![Scale integer](./images/Scale%20integer.png)
