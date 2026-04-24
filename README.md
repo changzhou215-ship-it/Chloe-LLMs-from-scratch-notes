@@ -38,3 +38,7 @@ Next, let's look at the knowledge I have acquired:
 
 4.Learning and Commenting on Complex Parts: 
 ![Scale integer](./images/Scale%20integer.png)
+
+
+26.04.24
+Today, I learned about automatic differentiation. I share my Markdown notes on GitHub, feedback and corrections are welcome!
